@@ -1,0 +1,9 @@
+# Ignore backup files
+*.gb[0-9]
+Backup/
+
+# Icons
+*.ico
+
+# Executables
+*.exe
